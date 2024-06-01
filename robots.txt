@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aketembu.github.io/sitemap.html
+Sitemap: https://aketembu.github.io/fa/sitemap.html
+Sitemap: https://aketembu.github.io/fi/sitemap.html
+Sitemap: https://aketembu.github.io/fu/sitemap.html
